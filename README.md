@@ -1,5 +1,7 @@
 # Health-ETL
-
+## Sample Visualization<a name="getting-started"></a>
+<img width="1353" height="603" alt="Sample Dashboard" src="https://github.com/user-attachments/assets/66ec76ec-5860-44b7-8d04-d1db4b516a76" />
+ Link: http://localhost:3000/d/9591870b-b380-41d8-b80a-ee33718edcba/patients-statistics?kiosk=&orgId=1&from=2018-01-23T12:10:19.406Z&to=2025-07-16T04:10:19.406Z&timezone=browser
 Health Data Examinatiion for Diabetes Patients
 <a name="readme-top"></a>
 
@@ -19,11 +21,9 @@ Health Data Examinatiion for Diabetes Patients
 
 - [📝 License](#license)
 
-# 📖 Raising the Village Data Pipeline to ingest data to a data warehouse Hub <a name="about-project"></a>
+# 📖 A Health Pipeline to n=ingest data to a datawarehouse with the end goal of showing stats <a name="about-project"></a>
 
-In this Project, I have sourced files from MiniIO as a data source, perfomed ETL processes using pandas and visualization using PowerBI:
-
-- Python
+In this Project, I have sourced files from an open source dataset, perfomed ETL transformations with spark with the aim of produceing cleaned data:
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,14 +54,14 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder:
 
 > cd my-folder
-> git clone [git@github.comm: ETL.git](https://github.com/Jonathan-Rop/RTV--ETL)
+> git clone [git@github.comm: ETL.git](https://github.com/Jonathan-Rop/Health-ETL)
 
 ### Prerequisites
 
 To run this project you need:
 
 - GitHub account;
-- git installed on your OS.
+- Git installed on your OS.
 
 ### Install
 
@@ -74,11 +74,8 @@ To run this project you need:
 -  Install PostgreSQL
 -  Install Pandas
 -  Spark
--  Visualization
+-  Grafana
 
-## Sample Visualization<a name="getting-started"></a>
-<img width="1353" height="603" alt="Sample Dashboard" src="https://github.com/user-attachments/assets/66ec76ec-5860-44b7-8d04-d1db4b516a76" />
- Link: http://localhost:3000/d/9591870b-b380-41d8-b80a-ee33718edcba/patients-statistics?kiosk=&orgId=1&from=2018-01-23T12:10:19.406Z&to=2025-07-16T04:10:19.406Z&timezone=browser
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
