@@ -74,7 +74,11 @@ To run this project you need:
 -  Install PostgreSQL
 -  Install Pandas
 -  Spark
+-  Visualization
 
+## Sample Visualization<a name="getting-started"></a>
+<img width="1353" height="603" alt="Sample Dashboard" src="https://github.com/user-attachments/assets/66ec76ec-5860-44b7-8d04-d1db4b516a76" />
+ Link: http://localhost:3000/d/9591870b-b380-41d8-b80a-ee33718edcba/patients-statistics?kiosk=&orgId=1&from=2018-01-23T12:10:19.406Z&to=2025-07-16T04:10:19.406Z&timezone=browser
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
